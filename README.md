@@ -24,7 +24,8 @@ Revisar la documentación: Abrir el archivo Word para contexto teórico.
 
 Ejecutar el código.
 
-Ver el video: Visualizar la explicación multimedia para reforzar conceptos.
+Ver el video: Visualizar la explicación multimedia para reforzar conceptos:
+https://www.youtube.com/watch?v=ofUfYSqTr6c&ab_channel=Nahuel
 
 ## Reflexiones del equipo:
 
