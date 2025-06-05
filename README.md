@@ -16,7 +16,7 @@ Código fuente: Archivo .py.
 
 Documentación: Archivo Word con marco teórico, explicaciones y resultados.
 
-Video explicativo
+Video explicativo: https://www.youtube.com/watch?v=ofUfYSqTr6c&ab_channel=Nahuel
 
 ## Instrucciones de uso:
 
@@ -24,8 +24,7 @@ Revisar la documentación: Abrir el archivo Word para contexto teórico.
 
 Ejecutar el código.
 
-Ver el video: Visualizar la explicación multimedia para reforzar conceptos:
-https://www.youtube.com/watch?v=ofUfYSqTr6c&ab_channel=Nahuel
+Ver el video: Visualizar la explicación multimedia para reforzar conceptos.
 
 ## Reflexiones del equipo:
 
