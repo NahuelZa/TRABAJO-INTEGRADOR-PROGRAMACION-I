@@ -6,8 +6,8 @@
   **Análisis de Algoritmos**
 
 ## Integrantes: 
-  **Nahuel Urciuoli Zabala**  
-  **Martin Rotolo**  
+  **Nahuel Urciuoli Zabala**  - Comision 9
+  **Martin Rotolo**           - Comision 9
 
 ## Descripción del proyecto
 Este repositorio contiene los archivos referidos al tema análisis de algoritmos. El repositorio incluye:
